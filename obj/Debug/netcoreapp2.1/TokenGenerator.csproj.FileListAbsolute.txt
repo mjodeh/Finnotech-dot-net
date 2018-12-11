@@ -1,0 +1,11 @@
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/bin/Debug/netcoreapp2.1/TokenGenerator.deps.json
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/bin/Debug/netcoreapp2.1/TokenGenerator.runtimeconfig.json
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/bin/Debug/netcoreapp2.1/TokenGenerator.runtimeconfig.dev.json
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/bin/Debug/netcoreapp2.1/TokenGenerator.dll
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/bin/Debug/netcoreapp2.1/TokenGenerator.pdb
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/obj/Debug/netcoreapp2.1/TokenGenerator.csprojAssemblyReference.cache
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/obj/Debug/netcoreapp2.1/TokenGenerator.csproj.CoreCompileInputs.cache
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/obj/Debug/netcoreapp2.1/TokenGenerator.AssemblyInfoInputs.cache
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/obj/Debug/netcoreapp2.1/TokenGenerator.AssemblyInfo.cs
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/obj/Debug/netcoreapp2.1/TokenGenerator.dll
+/home/jodeh/Desktop/dotnet-samples/TokenGenrator/obj/Debug/netcoreapp2.1/TokenGenerator.pdb
