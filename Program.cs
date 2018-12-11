@@ -11,9 +11,9 @@ namespace TokenGenerator
             {
                 ApplicationCredentials = new ApplicationCredentials()
                 {
-                    NationalId = "0075409690",
-                    ApplicationId = "testjodeh",
-                    ApplicationSecret = "5957dd6a8126de729fd2"
+                    NationalId = "",
+                    ApplicationId = "",
+                    ApplicationSecret = ""
                 }
             };
             app.GetToken();
