@@ -6,6 +6,7 @@ Install-Package Newtonsoft.Json
 * .Net framework 4+
 
 # Usage example
+```
 var app = new FinnotechApplication()  
 {  
     ApplicationCredentials = new ApplicationCredentials()  
@@ -16,6 +17,7 @@ var app = new FinnotechApplication()
     }  
 };  
 app.GetToken();  
+```
 
 # General notes
 All the functions output are boolean, if the result is true then the function succeeded otherwize it failed, in this case it will through an exception.
